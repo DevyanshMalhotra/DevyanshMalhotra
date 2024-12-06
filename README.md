@@ -22,11 +22,28 @@
 ## 🎓 Certifications:  
 - **Deep Learning** - NPTEL (IIT Ropar, 2023)  
 - **Data Science for Engineers** - NPTEL (2023)  
-- **Intro to Machine Learning** - NPTEL (IIT KGP, 2022)  
+- **Intro to Machine Learning** - NPTEL (IIT KGP, 2022)
 
+  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://gh-readme-stats-xi.vercel.app/api?username=vishalxtyagi&show_icons=true&include_all_commits=true" alt="Vishal's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalxtyagi" alt="Vishal's GitHub Streak" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishalxtyagi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+

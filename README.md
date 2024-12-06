@@ -24,15 +24,16 @@
 - **Data Science for Engineers** - NPTEL (2023)  
 - **Intro to Machine Learning** - NPTEL (IIT KGP, 2022)
 
-  
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://gh-readme-stats-xi.vercel.app/api?username=vishalxtyagi&show_icons=true&include_all_commits=true" alt="Vishal's GitHub Stats" />
+  <img src="https://gh-readme-stats-xi.vercel.app/api?username=DevyanshMalhotra&show_icons=true&include_all_commits=true" alt="Devyansh's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishalxtyagi" alt="Vishal's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyanshMalhotra" alt="Devyansh's GitHub Streak" />
 </p>
 
 <picture>
@@ -44,6 +45,6 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vishalxtyagi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=DevyanshMalhotra&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 

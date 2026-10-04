@@ -8,8 +8,8 @@ Building production-oriented applications, APIs, cloud integrations, and develop
 
 - Backend services and APIs with **C#, .NET, Java, Python and Azure Functions**
 - Full-stack applications with **TypeScript, React and Next.js**
-- Cloud integrations using **Azure, Dataverse, Cosmos DB, Microsoft Graph and Azure AI Search**
-- Authentication, authorization, data modeling, workflow automation and system integrations
+- Cloud integrations using **Azure, Cosmos DB, Microsoft Graph and Azure AI Search**
+- Authentication, authorization, data modeling and system integrations
 
 ### Stack
 

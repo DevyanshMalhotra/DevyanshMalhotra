@@ -1,0 +1,35 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#071019"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="90" y1="0" x2="1110" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="248" rx="18" fill="url(#panel)" stroke="#1E293B"/>
+  <rect x="38" y="38" width="6" height="174" rx="3" fill="url(#accent)"/>
+
+  <text x="78" y="70" fill="#94A3B8" font-size="14" font-family="JetBrains Mono,Consolas,monospace">devyansh@github:~$</text>
+  <text x="78" y="105" fill="#F8FAFC" font-size="24" font-family="JetBrains Mono,Consolas,monospace" font-weight="700">whoami</text>
+
+  <g font-family="JetBrains Mono,Consolas,monospace" font-size="16">
+    <text x="78" y="145" fill="#CBD5E1">role</text>
+    <text x="225" y="145" fill="#FB923C">Software Engineer</text>
+
+    <text x="78" y="175" fill="#CBD5E1">focus</text>
+    <text x="225" y="175" fill="#FDBA74">Backend · Full Stack · Cloud · Open Source</text>
+
+    <text x="78" y="205" fill="#CBD5E1">building</text>
+    <text x="225" y="205" fill="#94A3B8">APIs · cloud-integrated applications · developer tooling</text>
+  </g>
+
+  <circle cx="1095" cy="67" r="36" stroke="#F97316" stroke-opacity="0.28" stroke-width="2" stroke-dasharray="7 8">
+    <animateTransform attributeName="transform" type="rotate" from="0 1095 67" to="360 1095 67" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1095" cy="67" r="6" fill="#FB923C">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>

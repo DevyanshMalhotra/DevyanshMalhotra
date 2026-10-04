@@ -1,60 +1,87 @@
-# Devyansh Malhotra
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Devyansh Malhotra — Software Engineer" />
+</p>
 
-**Software Engineer | Backend · Full Stack · Cloud**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=850&lines=Building+production-oriented+software;Backend+services+%C2%B7+APIs+%C2%B7+cloud+integrations;Full-stack+applications+with+React+and+TypeScript;Contributing+to+open-source+developer+tooling" alt="Typing SVG" />
+  </a>
+</p>
 
-Building production-oriented applications, APIs, cloud integrations, and developer tooling.
+<p align="center">
+  <a href="https://www.linkedin.com/in/devyansh-malhotra/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:workwithdevyansh@gmail.com"><img src="https://img.shields.io/badge/Email-EA580C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/DevyanshMalhotra"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-### Engineering
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</p>
+
+<p align="center">
+  <img src="./assets/engineering-card.svg" width="100%" alt="Engineering profile" />
+</p>
+
+## Engineering
 
 - Backend services and APIs with **C#, .NET, Java, Python and Azure Functions**
 - Full-stack applications with **TypeScript, React and Next.js**
 - Cloud integrations using **Azure, Cosmos DB, Microsoft Graph and Azure AI Search**
 - Authentication, authorization, data modeling and system integrations
 
-### Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C%2B%2B-222?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-222?style=flat-square)
-![Java](https://img.shields.io/badge/Java-222?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-222?style=flat-square)
-![Python](https://img.shields.io/badge/Python-222?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-222?style=flat-square)
-
-**Backend & APIs**
-
-![.NET](https://img.shields.io/badge/.NET-222?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-222?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-222?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST_APIs-222?style=flat-square)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-222?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-222?style=flat-square)
-
-**Cloud & Infrastructure**
-
-![Azure](https://img.shields.io/badge/Azure-222?style=flat-square)
-![Azure Functions](https://img.shields.io/badge/Azure_Functions-222?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-222?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-222?style=flat-square)
-
-**Data & Search**
-
-![SQL](https://img.shields.io/badge/SQL-222?style=flat-square)
-![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-222?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-222?style=flat-square)
-![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-222?style=flat-square)
-
-### Development Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevyanshMalhotra&show_icons=false&include_all_commits=true&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyanshMalhotra&hide_border=true" height="165" />
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
 </p>
 
-### Connect
+## Stack
 
-[Email](mailto:workwithdevyansh@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,ts,js,py,dotnet,spring,react,nextjs,azure,docker,mongodb,git,github,visualstudio,vscode&theme=dark&perline=9" alt="Technology stack" />
+</p>
+
+<p align="center">
+  <sub>C++ · C# · Java · TypeScript · JavaScript · Python · .NET · Spring · React · Next.js · Azure · Docker · MongoDB · Git</sub>
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</p>
+
+## Selected Engineering Work
+
+| Area | Development work |
+|---|---|
+| **Document Intelligence** | React + TypeScript applications with C# Azure Functions, Azure AI Search, Cosmos DB and Microsoft Graph for document retrieval and AI-assisted workflows |
+| **Cloud Applications** | Authenticated APIs, authorization, validation, role-based access and Azure-integrated backend services |
+| **Meeting & Collaboration** | React + MSAL + Azure Functions application flows with attendee authorization, enterprise data access and role-filtered content |
+| **Production Web Platform** | Next.js application work spanning backend integrations, caching, security controls and production-focused web development |
+
+## Open Source
+
+[`mcp-migrate`](https://github.com/dheerajjha/mcp-migrate) — contributed a merged fix for an R006 SSE detection edge case, including regression coverage to avoid unrelated false positives.
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</p>
+
+## Development Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DevyanshMalhotra&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&bg_color=00000000&title_color=F97316&icon_color=FB923C&text_color=C9D1D9" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=DevyanshMalhotra&show_icons=true&hide_border=true&rank_icon=github&theme=default&bg_color=00000000&title_color=EA580C&icon_color=F97316&text_color=334155" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DevyanshMalhotra&theme=github-dark-blue&hide_border=true&background=00000000&ring=F97316&fire=FB923C&currStreakLabel=F97316&sideLabels=94A3B8&dates=64748B" />
+    <img height="170" src="https://streak-stats.demolab.com?user=DevyanshMalhotra&hide_border=true&background=00000000&ring=EA580C&fire=F97316&currStreakLabel=EA580C" alt="GitHub streak" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevyanshMalhotra&bg_color=00000000&color=94A3B8&line=F97316&point=FB923C&area=true&area_color=EA580C&hide_border=true" width="100%" alt="Contribution activity graph" />
+</p>
+
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="build systems, ship software, improve continuously" />
+</p>

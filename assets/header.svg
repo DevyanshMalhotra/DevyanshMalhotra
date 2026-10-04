@@ -1,0 +1,93 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070D"/>
+      <stop offset="0.52" stop-color="#0A1120"/>
+      <stop offset="1" stop-color="#06131E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="170" y1="0" x2="1030" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDBA74"/>
+      <stop offset="0.5" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#FB923C"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(930 100) rotate(146) scale(390 220)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EA580C" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#EA580C" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#glow)"/>
+
+  <g opacity="0.7">
+    <circle cx="100" cy="70" r="2.5" fill="#FDBA74">
+      <animate attributeName="opacity" values="0.15;1;0.15" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1090" cy="70" r="2" fill="#FB923C">
+      <animate attributeName="opacity" values="1;0.2;1" dur="4.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1040" cy="245" r="2.5" fill="#F97316">
+      <animate attributeName="opacity" values="0.2;1;0.2" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="165" cy="235" r="2" fill="#FED7AA">
+      <animate attributeName="opacity" values="1;0.25;1" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g opacity="0.18" stroke="#F97316">
+    <path d="M0 230 C170 180, 280 290, 470 222 S780 172, 1200 232" stroke-width="1.4" fill="none">
+      <animate attributeName="d" dur="8s" repeatCount="indefinite"
+        values="M0 230 C170 180, 280 290, 470 222 S780 172, 1200 232;
+                M0 220 C180 285, 300 170, 490 228 S820 285, 1200 218;
+                M0 230 C170 180, 280 290, 470 222 S780 172, 1200 232"/>
+    </path>
+    <path d="M0 252 C190 205, 350 300, 550 238 S880 210, 1200 255" stroke-width="0.9" fill="none">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="M0 252 C190 205, 350 300, 550 238 S880 210, 1200 255;
+                M0 242 C180 300, 380 210, 560 250 S900 300, 1200 240;
+                M0 252 C190 205, 350 300, 550 238 S880 210, 1200 255"/>
+    </path>
+  </g>
+
+  <g opacity="0.34">
+    <rect x="905" y="48" width="220" height="150" rx="12" fill="#0B1220" stroke="#F97316" stroke-opacity="0.22"/>
+    <circle cx="930" cy="70" r="4" fill="#F97316" fill-opacity="0.7"/>
+    <circle cx="946" cy="70" r="4" fill="#F97316" fill-opacity="0.4"/>
+    <circle cx="962" cy="70" r="4" fill="#F97316" fill-opacity="0.2"/>
+    <g stroke="#F97316" stroke-opacity="0.32" stroke-width="2" stroke-linecap="round">
+      <line x1="930" y1="102" x2="1070" y2="102">
+        <animate attributeName="x2" values="980;1070;980" dur="4.4s" repeatCount="indefinite"/>
+      </line>
+      <line x1="930" y1="122" x2="1038" y2="122">
+        <animate attributeName="x2" values="1010;1060;1010" dur="5.1s" repeatCount="indefinite"/>
+      </line>
+      <line x1="930" y1="142" x2="1092" y2="142">
+        <animate attributeName="x2" values="1005;1092;1005" dur="3.8s" repeatCount="indefinite"/>
+      </line>
+      <line x1="930" y1="162" x2="1055" y2="162">
+        <animate attributeName="x2" values="985;1055;985" dur="4.7s" repeatCount="indefinite"/>
+      </line>
+    </g>
+  </g>
+
+  <g filter="url(#blur)" opacity="0.22">
+    <circle cx="200" cy="155" r="90" fill="#EA580C"/>
+  </g>
+
+  <text x="78" y="112" fill="#F8FAFC" font-size="54" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" letter-spacing="-1.8">Devyansh Malhotra</text>
+  <text x="80" y="152" fill="url(#accent)" font-size="19" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600" letter-spacing="4">SOFTWARE ENGINEER</text>
+  <text x="80" y="193" fill="#CBD5E1" font-size="18" font-family="Inter,Segoe UI,Arial,sans-serif">Backend  ·  Full Stack  ·  Cloud  ·  Open Source</text>
+
+  <rect x="80" y="218" width="370" height="2" rx="1" fill="url(#accent)">
+    <animate attributeName="width" values="90;370;90" dur="5.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="80" y="253" fill="#64748B" font-size="14" font-family="JetBrains Mono,Consolas,monospace">APIs / cloud integrations / developer tooling</text>
+</svg>

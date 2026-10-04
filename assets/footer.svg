@@ -1,0 +1,22 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05070D"/>
+      <stop offset="1" stop-color="#08131D"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="360" y1="0" x2="840" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FB923C"/>
+      <stop offset="1" stop-color="#F97316" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="20" fill="url(#bg)"/>
+  <rect x="320" y="35" width="560" height="1" fill="url(#accent)">
+    <animate attributeName="x" values="250;390;250" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="700;420;700" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="600" y="76" text-anchor="middle" fill="#CBD5E1" font-size="16" font-family="JetBrains Mono,Consolas,monospace">build systems · ship software · improve continuously</text>
+  <circle cx="320" cy="36" r="3" fill="#FB923C">
+    <animate attributeName="cx" values="320;880;320" dur="6s" repeatCount="indefinite"/>
+  </circle>
+</svg>

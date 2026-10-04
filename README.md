@@ -55,10 +55,6 @@
 | **Meeting & Collaboration** | React + MSAL + Azure Functions application flows with attendee authorization, enterprise data access and role-filtered content |
 | **Production Web Platform** | Next.js application work spanning backend integrations, caching, security controls and production-focused web development |
 
-## Open Source
-
-[`mcp-migrate`](https://github.com/dheerajjha/mcp-migrate) — contributed a merged fix for an R006 SSE detection edge case, including regression coverage to avoid unrelated false positives.
-
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="divider" />
 </p>

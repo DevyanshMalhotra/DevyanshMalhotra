@@ -78,10 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevyanshMalhotra&bg_color=00000000&color=94A3B8&line=F97316&point=FB923C&area=true&area_color=EA580C&hide_border=true" width="100%" alt="Contribution activity graph" />
-</p>
-
-
-<p align="center">
   <img src="./assets/footer.svg" width="100%" alt="build systems, ship software, improve continuously" />
 </p>

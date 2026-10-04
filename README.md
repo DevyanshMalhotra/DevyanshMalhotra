@@ -10,7 +10,6 @@ Building production-oriented applications, APIs, cloud integrations, and develop
 - Full-stack applications with **TypeScript, React and Next.js**
 - Cloud integrations using **Azure, Dataverse, Cosmos DB, Microsoft Graph and Azure AI Search**
 - Authentication, authorization, data modeling, workflow automation and system integrations
-- Open-source contributor to [`mcp-migrate`](https://github.com/dheerajjha/mcp-migrate)
 
 ### Stack
 
@@ -29,18 +28,9 @@ Building production-oriented applications, APIs, cloud integrations, and develop
 ### Development Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevyanshMalhotra&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevyanshMalhotra&show_icons=false&include_all_commits=true&hide_border=true&rank_icon=github" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevyanshMalhotra&hide_border=true" height="165" />
 </p>
-
-### Open Source
-
-[`mcp-migrate`](https://github.com/dheerajjha/mcp-migrate)  
-Contributed a merged fix improving SSE detection accuracy and regression coverage.
 
 ### Connect
 
